@@ -147,7 +147,7 @@ The :js:func:`getServerMaxMoney` Netscript function is used to find this value
 
 This third command defines a numerical value representing the maximum security level
 the target server can have. If the target server's security level is higher than
-this value, then our script will :js:func:`weaken` the script before doing anything else.
+this value, then our script will :js:func:`weaken` the target server before doing anything else.
 
 .. code:: javascript
 
